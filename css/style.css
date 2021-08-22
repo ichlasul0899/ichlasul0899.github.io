@@ -6,3 +6,7 @@
 section, footer{
     padding: 20px 0;
 }
+
+h4{
+    font-weight: bold;
+}
