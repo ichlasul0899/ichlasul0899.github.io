@@ -10,3 +10,6 @@ section, footer{
 h4{
     font-weight: bold;
 }
+.button{
+    border: 1px solid white;
+}
